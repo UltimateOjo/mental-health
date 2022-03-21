@@ -34,3 +34,17 @@ SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
 FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
+
+# Overview
+
+Official business page of Dweebs Global. 
+
+We provide mentorship, career advice, and mental health help. We have helped thousands of people with resume edits, life planning, and networking. We are working to reduce unemployment and uplift women. Our mentors are all happy to help you for free and make the world a better place. 
+
+Please contact us if you need help/advice or are able to help us help others.
+
+YouTube: tinyurl.com/yymhl44cwuf 
+Instagram: tinyurl.com/y6o3kr8pbmXVum
+Twitter: @dweebsglobal
+
+Note: We do not have employees; we are an all volunteer organization. But we have 201-500 volunteers.
