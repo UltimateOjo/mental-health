@@ -4,7 +4,7 @@ I have a volunteer frontend project I might not have time to finish. If anyone c
 
 # Code Above
 
-Ypu can edit my code if you need to, I'm already off to a good start and It may be faster to do it that way.
+You can edit my code if you need to, I'm already off to a good start and It may be faster to do it that way. The HTML is fully done it's just the CSS design that'll need work.
 
 # UI/UX Design
 https://www.figma.com/file/cQHOlk8z7GfMsnGCvcna4c/Dweebs-global-magazine-menu
