@@ -37,8 +37,6 @@ DEALINGS IN THE SOFTWARE.
 
 # Overview
 
-Official business page of Dweebs Global. 
-
 We provide mentorship, career advice, and mental health help. We have helped thousands of people with resume edits, life planning, and networking. We are working to reduce unemployment and uplift women. Our mentors are all happy to help you for free and make the world a better place. 
 
 Please contact us if you need help/advice or are able to help us help others.
