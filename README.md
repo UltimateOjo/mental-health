@@ -6,6 +6,7 @@ I have a volunteer frontend project I might not have time to finish. If anyone c
 
 Ypu can edit my code if you need to, I'm already off to a good start and It may be faster to do it that way.
 
+# UI/UX Design
 https://www.figma.com/file/cQHOlk8z7GfMsnGCvcna4c/Dweebs-global-magazine-menu
 
 # Copyright
