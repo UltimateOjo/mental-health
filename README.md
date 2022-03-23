@@ -1,6 +1,6 @@
 # Dweebs Global Mental Health Website
 # HELP WANTED
-I have a volunteer frontend project I might not have time to finish. If anyone can successfully make a frontend PHP website using HTML/CSS/ and PHP that looks like the UI/UX on the figma file below, that would be AWESOME! My email is olugbengaojo97@gmail.com. Email me and let me know. P.S. I am willing to pay $50 to whoever get's the code to look exactly like the figma file below via CashApp Ojo000 or Venmo @Gbenga-Ojo-1. 
+I have a volunteer frontend project I might not have time to finish. If anyone can successfully make a frontend PHP website using HTML/CSS/ and PHP that looks like the UI/UX on the figma file below, that would be AWESOME! My email is olugbengaojo97@gmail.com. Email me and let me know.
 
 # Code Above
 
